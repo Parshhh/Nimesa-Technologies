@@ -1,2 +1,10 @@
 # Nimesa-Technologies
 # Assignment 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
